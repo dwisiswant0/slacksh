@@ -7,7 +7,7 @@ Interactivity with \*nix shell system flexibly via Slack slash commands.
 ## Installation
 
 - Download a prebuilt binary from [releases page](https://github.com/dwisiswant0/slacksh/releases/latest), unpack and run! or
-- If you have go compiler installed: `go get github.com/dwisiswant0/slacksh`
+- If you have go compiler installed: `go get github.com/dwisiswant0/slacksh/cmd/slacksh`
 
 ## Getting started
 
